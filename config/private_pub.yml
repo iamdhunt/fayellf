@@ -6,5 +6,5 @@
 
 production:
   server: "http://llf-faye.herokuapp.com/faye"
-  secret_token: "batkaro"
-  signature_expiration: 86400 # one day
+  secret_token: "rairfrls"
+  signature_expiration: 43200 # one day
